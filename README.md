@@ -1,2 +1,3 @@
 # Java
-Java programs written in BlueJ as practice for educational purposes.
+Java programs written as practice for educational purposes.
+//Used BlueJ
