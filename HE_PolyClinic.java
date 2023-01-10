@@ -580,7 +580,7 @@ public class HE_PolyClinic
             System.out.print("=");
         System.out.println("\n\n\n\t::::::THANK YOU::::::");
         System.out.println("\n\nThe Project You Have Just Viewed Was Created By -");
-        System.out.println("\nSIDDHANTH JAGTAP\nClass: X-D\nROLL NO.: 33");
+        System.out.println("\nSIDDHANTH JAGTAP");
         for(double j=1;j<25000000*400;j++)
         {
 
